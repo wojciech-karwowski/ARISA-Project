@@ -38,7 +38,7 @@ pip install scikit-learn wandb numpy pandas tqdm
 
 ## Data
 
-The project utilizes the public [**MAR20 (Military Aircraft Recognition)**](https://www.kaggle.com/datasets/khlaifiabilel/military-aircraft-recognition-dataset) dataset. Aircraft objects were cropped according to annotations and scaled to a fixed resolution of $224 \times 244 pixels$.
+The project utilizes the public [**MAR20 (Military Aircraft Recognition)**](https://www.kaggle.com/datasets/khlaifiabilel/military-aircraft-recognition-dataset) dataset. Aircraft objects were cropped according to annotations and scaled to a fixed resolution of $224 \times 244$ pixels.
 
 ---
 
